@@ -1,0 +1,7 @@
+#include
+
+int main()
+{
+puts("\"Programming is like building a multuilingual puzzle");
+return (0);
+}
